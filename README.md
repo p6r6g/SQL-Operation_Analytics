@@ -16,4 +16,4 @@ Case Study 2 - Investigating Metric Spike:
     4. Weekly Engagement Per Device
     5. Email Engagement Analysis
 
-Find the Report in the repository for a detailed analysis.
+Find the Report.pdf in the repository for a detailed analysis.
